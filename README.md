@@ -39,7 +39,7 @@ ge-daily-digest/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ge-daily-digest.git
+   git clone https://github.com/nobregavictor/webscrapingge
    cd ge-daily-digest
 
 
