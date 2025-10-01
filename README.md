@@ -3,7 +3,7 @@
 
 # 📰 GE Daily Digest
 
-Um script em Python que coleta automaticamente as 10 principais manchetes do **Globo Esporte** e envia um resumo diário por e-mail.  
+Um script em Python que coleta automaticamente as 6 principais manchetes do **Globo Esporte** e envia um resumo diário por e-mail.  
 Ideal para quem quer acompanhar rapidamente as notícias esportivas sem precisar acessar o site.
 
 ---
