@@ -1,5 +1,6 @@
 <img width="740" height="451" alt="image" src="https://github.com/user-attachments/assets/d9081bff-7b3f-4670-8461-4d411fec8c51" />
-<img width="484" height="59" alt="image" src="https://github.com/user-attachments/assets/e91ab881-88e2-43cf-a53f-c6aeb771c57b" />
+<img width="1224" height="713" alt="image" src="https://github.com/user-attachments/assets/44fba809-c830-49c1-83e1-7dece44ad1cf" />
+
 
 # 📰 GE Daily Digest
 
